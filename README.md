@@ -77,5 +77,3 @@ This project demonstrates a practical approach to predictive maintenance using L
 
 ## References
 - [CMAPSS Dataset](https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository)
-
-```
