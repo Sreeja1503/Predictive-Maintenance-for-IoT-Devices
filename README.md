@@ -1,4 +1,4 @@
-```markdown
+
 # Predictive Maintenance using LSTM for Remaining Useful Life (RUL) Estimation
 
 This project demonstrates how to use Long Short-Term Memory (LSTM) networks to predict the Remaining Useful Life (RUL) of machinery based on sensor data. The dataset used is from the CMAPSS (Commercial Modular Aero-Propulsion System Simulation) dataset.
